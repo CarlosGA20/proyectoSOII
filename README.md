@@ -2,6 +2,11 @@
 
 ## Equipo: Dream Power
 
+- Blengio Landín Guillermo
+- Gómez de Segura González Aarón 
+- Guerrero Avila Carlos 
+- Gutiérrez Martínez Braulio Rodrigo
+
 ### Planteamiento
 
 Actualmente el Kinect brinda mucha información con sus sensores, estas pueden ser transformadas en distintas estructuras de datos y se leen para convertir la realidad en un modelo digital. Con este modelo y con un sistema de reconocimiento de gestos, se puede reconocer que tipo de cosas o movimientos se están realizando.
